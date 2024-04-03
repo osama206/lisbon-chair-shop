@@ -30,7 +30,7 @@ To run this project locally:
 ## Usage:
 After cloning the repository and navigating to the project directory, you can explore the codebase, make modifications as needed, and use it as a template for your own website or project.
 
-## Demo (Expanded):
+## Demo:
 To view a live demo of the Lisbon Chair Shop website:
 1. Visit the [GitHub Pages link](https://osama206.github.io/lisbon-chair-shop) for the project.
 2. Explore the different sections of the website to see its features and functionality.
